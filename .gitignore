@@ -1,0 +1,5 @@
+/.phpunit.cache
+/phpcs.xml
+/phpunit.xml
+/*.phar
+/vendor/
